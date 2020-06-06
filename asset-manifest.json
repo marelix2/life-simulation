@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/life-simulation/static/js/main.15a2e1a7.chunk.js",
+    "main.js.map": "/life-simulation/static/js/main.15a2e1a7.chunk.js.map",
+    "runtime-main.js": "/life-simulation/static/js/runtime-main.64ed49ff.js",
+    "runtime-main.js.map": "/life-simulation/static/js/runtime-main.64ed49ff.js.map",
+    "static/js/2.b8cd878b.chunk.js": "/life-simulation/static/js/2.b8cd878b.chunk.js",
+    "static/js/2.b8cd878b.chunk.js.map": "/life-simulation/static/js/2.b8cd878b.chunk.js.map",
+    "index.html": "/life-simulation/index.html",
+    "precache-manifest.5a285bf07292f7c38dd16610b85e705f.js": "/life-simulation/precache-manifest.5a285bf07292f7c38dd16610b85e705f.js",
+    "service-worker.js": "/life-simulation/service-worker.js",
+    "static/js/2.b8cd878b.chunk.js.LICENSE.txt": "/life-simulation/static/js/2.b8cd878b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64ed49ff.js",
+    "static/js/2.b8cd878b.chunk.js",
+    "static/js/main.15a2e1a7.chunk.js"
+  ]
+}
