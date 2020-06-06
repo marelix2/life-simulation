@@ -1,10 +1,10 @@
 import React from 'react';
-import Form from './Form/Form'
+import View from './View/View'
 
 function App() {
   return (
     <div className="App">
-      <Form/>
+      <View />
     </div>
   );
 }
