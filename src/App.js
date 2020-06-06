@@ -1,9 +1,10 @@
 import React from 'react';
+import Form from './Form/Form'
 
 function App() {
   return (
     <div className="App">
-      hello
+      <Form/>
     </div>
   );
 }
